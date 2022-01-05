@@ -44,6 +44,21 @@
         "date": "2019-02-02T23:27:00.000Z",
         "time": "1:00",
         "attendees": []
+      },
+      {
+        "id": 777,
+        "user": {
+          "id": "alex_neo_68",
+          "name": "Sanya"
+        },
+        "category": "animal welfare",
+        "organizer": "Sanya",
+        "title": "Hello World, чуваки!",
+        "description": "Yay pups!",
+        "location": "Puptown ",
+        "date": "2019-02-02T23:27:00.000Z",
+        "time": "1:00",
+        "attendees": []
       }
     ]
   }
